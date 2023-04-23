@@ -1,0 +1,133 @@
+#title{
+    background-color:black;
+    margin: -px;
+    Padding: 20px;
+    font-style:bold;
+    color:white;
+    right: 0;
+    left: 0;
+    top: 0;
+}
+
+body{
+    background-color:white;
+    font-family: sans-serif;
+    padding:150px;
+    text-align: left;
+}
+
+
+h1{
+    text-align:center;
+}
+
+ol{
+    list-style-position:inside;
+}
+
+ul{
+    list-style-position:inside;
+}
+
+.div-1{
+    border:10px black;
+    background-color:white;
+    text-align: left;
+    height: auto;
+    width: 1000px;
+    padding:15px;
+}
+
+.div-2{
+    background-color:gray;
+    text-align:center;
+    height: auto;
+    padding:15px;
+}
+
+.div-3{
+    background-color:white;
+    text-align:center;
+    height:auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 35px;
+}
+
+header{
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    color: white;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    position:absolute;
+}
+
+footer{
+    background-color: black;
+    color:white;
+    position:fixed;
+    bottom:0;
+    left: 0;
+    right: 0;
+    Height: 60px;
+        text-align:center;
+padding-top:10px;
+}
+
+footer a:link{
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer a:visited{
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h4{
+    color: white;
+    font-size:small;
+    padding: 0px;
+    
+}
+
+h5{
+    Color:white;
+    font-size:xx-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+h6{
+    color:black;
+    font-size:x-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding-bottom:0px;
+}
+
+.p-1{
+    color:white;
+    font-size:large;
+    font-style:italic;
+    font-family:sans-serif;
+}
+
+.p-2{
+    color:black;
+    font-size:large;
+    font-style:italic;
+    font-family:sans-serif;
+    text-align:center;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%
+}
